@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.circle{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 10vh auto 20px;
+}
+
+
+.actions>button{
+    cursor: pointer;
+}
+
